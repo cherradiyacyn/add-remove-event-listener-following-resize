@@ -5,7 +5,7 @@ Basically I had 2 problems:
 
 As I came up with this solution, the 2 problems are solved! now, I reached the wanted eXperience;
 
-1. to not care about the CSS cascade.
+1. to care less about the CSS cascade.
 2. to optimize the runtime by removing unwanted Event Listeners.
 
 I think the first problem could be solved using only CSS, but I didn't give it enough thinking time honestly. hehe!

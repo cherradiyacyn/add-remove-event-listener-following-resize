@@ -1,0 +1,35 @@
+.hide {
+  display: none;
+}
+
+.show {
+  display: flex;
+}
+
+.green {
+  background-color: greenyellow;
+  border: 5px solid green;
+}
+.red {
+  background-color: pink;
+  border: 5px solid red;
+}
+
+.box {
+  width: 9rem;
+  padding: 1rem;
+  cursor: pointer;
+
+  align-items: center;
+  justify-content: center;
+}
+
+.container {
+  background-color: black;
+  min-width: 360px;
+
+  gap: 1rem;
+  justify-content: space-between;
+
+  display: flex;
+}
